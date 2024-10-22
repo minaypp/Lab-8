@@ -33,6 +33,7 @@ Design & implement the HashTable class and its data structure (with linked lists
 Write the insert() function to add new book records.
 Implement the delete() function to remove a record by ISBN.
 Test the initial implementation with sample data and validate the basic operations.
+
 Role 2: Collision Handling & Performance Analysis
 Design & implement the linked list structure for chaining.
 Write the lookup() function to retrieve book titles by ISBN.
