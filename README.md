@@ -1,12 +1,12 @@
 # Lab-8
-Objectives:
+**Objectives:**
 Implement a hash table with separate chaining to manage book records (ISBN and titles).
 Understand key concepts of hashing, collisions, and separate chaining.
 Work collaboratively in pairs to design, implement, test, and analyze the hash table.
 Analyze the performance of the system by adding, retrieving, and deleting book records.
  
 
-Requirements:
+**Requirements:**
 Hash Table Implementation:
 
 The hash table will store book records where:
@@ -25,7 +25,7 @@ Test the hash table with 10, 100, and 1000 records.
 Measure and comment on the time performance for lookup, insertion, and deletion operations.
  
 
-Suggested Role Division of Labor
+**Suggested Role Division of Labor**
 In pairs, you will divide the work as follows to ensure equal contribution:
 
 Role 1: Hash Table Structure & Basic Operations
@@ -40,7 +40,7 @@ Implement the display() function to list all books in the system.
 Conduct performance tests with different data sizes and measure the time efficiency of the hash table.
  
 
-Rubric:
+**Rubric:**
 Hash Table Implementation: (40 %)
 
 Hash table structure with separate chaining implemented correctly
