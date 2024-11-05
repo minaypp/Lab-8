@@ -4,7 +4,7 @@ Lab Week 8
 Description: A stress test for a hash table using ISBNs and book titles
 Input: None
 Output: The timing of the hash table using insertion, lookup, and deletion
-Student: Chris Amey
+Student: Chris Amey and Mina Yeap
 Known bugs: None
 Date: 11/4/2024
 '''
